@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0px;
+    text-align: center;
+    border: rebeccapurple solid 2px;
+}
+#map{
+    width: 100%;
+    height: 500px;
+}
+
+#container-fluid{
+    font-style: italic;
+    font-size: medium;
+    color: salmon;
+}
